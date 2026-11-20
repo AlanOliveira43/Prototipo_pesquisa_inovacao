@@ -1,0 +1,52 @@
+[
+  {
+    "sigla": "CC",
+    "nome": "Código Civil · Lei 10.406/2002",
+    "url": "https://planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+    "aliases": ["cc", "código civil", "10.406", "10406"],
+    "artigos": [
+      {"artigo": "408", "tema": "Incidência da cláusula penal", "resumo": "A cláusula penal incide quando o devedor, de forma culposa, deixa de cumprir a obrigação ou entra em mora.", "termos": "multa penalidade inadimplemento atraso descumprimento obrigação"},
+      {"artigo": "413", "tema": "Redução judicial da multa contratual", "resumo": "Cabe redução equitativa da penalidade pelo juiz se a obrigação tiver sido cumprida em parte ou se o montante for manifestamente excessivo, considerando a natureza e a finalidade do negócio.", "termos": "multa cláusula penal penalidade desproporcional redução moderar rescisão"},
+      {"artigo": "421", "tema": "Função social dos contratos", "resumo": "A função social limita a liberdade de contratar. O dispositivo também prevê intervenção mínima e revisão excepcional nas relações contratuais privadas.", "termos": "contrato autonomia função social revisão contratual"},
+      {"artigo": "422", "tema": "Boa-fé e probidade nos contratos", "resumo": "Os deveres de probidade e boa-fé se aplicam tanto à conclusão quanto à execução do contrato.", "termos": "boa fé boa-fé probidade lealdade conduta negociação execução"},
+      {"artigo": "473", "tema": "Resilição unilateral e notificação", "resumo": "Quando a lei admite a extinção unilateral, ela depende de notificação à outra parte. Investimentos consideráveis podem postergar os efeitos da denúncia por prazo compatível com o investimento.", "termos": "rescisão encerramento denúncia unilateral aviso prévio notificação investimento"}
+    ]
+  },
+  {
+    "sigla": "CPC",
+    "nome": "Código de Processo Civil · Lei 13.105/2015",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105compilada.htm",
+    "aliases": ["cpc", "código de processo civil", "13.105", "13105"],
+    "artigos": [
+      {"artigo": "219", "tema": "Contagem de prazos processuais em dias úteis", "resumo": "Na contagem em dias de um prazo processual fixado por lei ou pelo juiz, entram apenas os dias úteis.", "termos": "prazo processamento contagem dias úteis recurso"},
+      {"artigo": "224", "tema": "Início e vencimento da contagem", "resumo": "Ressalvadas regras em contrário, a contagem exclui o dia inicial e inclui o vencimento. O dispositivo também disciplina situações ligadas a expediente forense e publicação eletrônica.", "termos": "prazo contagem vencimento início primeiro dia publicação intimação"},
+      {"artigo": "319", "tema": "Requisitos da petição inicial", "resumo": "Entre os elementos da inicial estão o juízo, a identificação das partes, os fatos e fundamentos, os pedidos, o valor da causa, as provas e a opção sobre conciliação ou mediação.", "termos": "petição inicial requisitos qualificação endereço pedidos conciliação valor da causa"},
+      {"artigo": "320", "tema": "Documentos indispensáveis à petição inicial", "resumo": "A petição inicial deve vir acompanhada dos documentos indispensáveis à propositura da ação.", "termos": "petição inicial anexos documentos indispensáveis instrução ação"},
+      {"artigo": "335", "tema": "Prazo para apresentar contestação", "resumo": "Estabelece prazo de 15 dias para a contestação, com termos iniciais distintos conforme a audiência, o cancelamento ou a hipótese de citação prevista no Código.", "termos": "contestação prazo defesa termo inicial citação audiência"},
+      {"artigo": "336", "tema": "Matérias de defesa na contestação", "resumo": "Na contestação, o réu deve reunir sua defesa, apresentar as razões de fato e de direito contra o pedido e especificar as provas que pretende produzir.", "termos": "defesa réu concentração matérias impugnação provas contestação"},
+      {"artigo": "373", "tema": "Ônus da prova", "resumo": "Em regra, o autor prova o fato que constitui seu direito e o réu demonstra fatos que o impeçam, modifiquem ou extingam. A lei permite redistribuição motivada em determinadas condições.", "termos": "prova ônus distribuição inversão prova fato probatório"}
+    ]
+  },
+  {
+    "sigla": "CDC",
+    "nome": "Código de Defesa do Consumidor · Lei 8.078/1990",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+    "aliases": ["cdc", "código de defesa do consumidor", "8.078", "8078"],
+    "artigos": [
+      {"artigo": "6", "tema": "Direitos básicos do consumidor", "resumo": "Reúne direitos básicos, entre eles informação clara, proteção contra práticas abusivas e, nas condições legais, facilitação da defesa e inversão do ônus da prova.", "termos": "consumo transparência informação consumidor fornecedor inversão prova"},
+      {"artigo": "49", "tema": "Direito de arrependimento", "resumo": "Prevê prazo de sete dias para desistir de contratação fora do estabelecimento comercial, contado da assinatura ou do recebimento do produto ou serviço, conforme o caso.", "termos": "arrependimento desistência compra online internet comércio eletrônico telefone devolução"},
+      {"artigo": "51", "tema": "Cláusulas abusivas em relações de consumo", "resumo": "Lista hipóteses de nulidade de cláusulas em contratos de consumo, incluindo obrigações que imponham desvantagem exagerada e certas limitações indevidas de responsabilidade.", "termos": "abuso cláusula abusiva desvantagem exagerada nulidade contrato consumidor multa fornecedor"}
+    ]
+  },
+  {
+    "sigla": "LGPD",
+    "nome": "Lei Geral de Proteção de Dados Pessoais · Lei 13.709/2018",
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+    "aliases": ["lgpd", "lei geral de proteção de dados", "13.709", "13709"],
+    "artigos": [
+      {"artigo": "6", "tema": "Princípios do tratamento de dados pessoais", "resumo": "O tratamento deve observar a boa-fé e princípios como finalidade, adequação, necessidade, transparência, segurança e responsabilização.", "termos": "dados pessoais privacidade princípios minimização finalidade transparência"},
+      {"artigo": "7", "tema": "Bases legais do tratamento de dados pessoais", "resumo": "Enumera hipóteses que autorizam o tratamento, entre elas consentimento, cumprimento de obrigação legal e execução de contrato, observadas as condições do dispositivo.", "termos": "dados pessoais base legal consentimento execução contrato legítimo interesse"},
+      {"artigo": "46", "tema": "Medidas de segurança de dados pessoais", "resumo": "Agentes de tratamento devem adotar medidas técnicas e administrativas contra acesso indevido e tratamento inadequado, observando a segurança desde a concepção.", "termos": "dados pessoais segurança proteção acesso incidente vazamento privacidade"}
+    ]
+  }
+]
